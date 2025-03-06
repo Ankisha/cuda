@@ -4,3 +4,4 @@
 2. But float *A, *B; not equivalent to float* A, B
 3. Because, * is binded to variable name and not variable type. 
 4. So, float* A,B; is float *A, float B. 
+## Day 2 : Multiply two matrices 
