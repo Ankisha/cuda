@@ -10,3 +10,4 @@
 2. declaring shared variables
 3. Sync threads is used if we want al threads to see the same state of the variable.
 4. atomicAdd
+## Day 4 : Very basic reduction pattern
