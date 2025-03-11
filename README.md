@@ -13,3 +13,4 @@
 ## Day 4 : Very basic reduction pattern
 ## Day 5 : Transpose of matrix, naive approach
 ## Day 6 : Reduction with coalescing
+## Day 7 : Understanding divergence in warp
