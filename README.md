@@ -14,3 +14,4 @@
 ## Day 5 : Transpose of matrix, naive approach
 ## Day 6 : Reduction with coalescing
 ## Day 7 : Understanding divergence in warp
+## Day 8 : Reverse array
